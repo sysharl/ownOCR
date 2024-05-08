@@ -1,0 +1,9 @@
+batch_size: 16
+height: 32
+learning_rate: 0.0005
+max_text_length: 16
+model_path: Models/ocr\202405062234
+train_epochs: 1000
+train_workers: 20
+vocab: NQ579;#!luhFAsSDfKR(:c2.W"Mot)be0ViJ4U6mkH-zPq&dOgyI1?E8LTZx'w,vGBaCrY3jpn
+width: 128

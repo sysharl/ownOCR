@@ -1,0 +1,10 @@
+2024-05-06 23:01:51,051 - tensorflow - WARNING - From E:\Programs\anaconda3\envs\py310\lib\site-packages\tf2onnx\tf_loader.py:68: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2024-05-06 23:01:52,068 - tensorflow - WARNING - From E:\Programs\anaconda3\envs\py310\lib\site-packages\tf2onnx\tf_loader.py:72: The name tf.train.import_meta_graph is deprecated. Please use tf.compat.v1.train.import_meta_graph instead.
+
+2024-05-06 23:02:00,347 - tensorflow - WARNING - From E:\Programs\anaconda3\envs\py310\lib\site-packages\keras\src\utils\tf_utils.py:492: The name tf.ragged.RaggedTensorValue is deprecated. Please use tf.compat.v1.ragged.RaggedTensorValue instead.
+
+2024-05-06 23:07:16,391 - root - INFO - Epoch 0; loss: 15.555520057678223; CER: 1.0453237295150757; WER: 0.9959560036659241; val_loss: 18.28000259399414; val_CER: 0.9447259306907654; val_WER: 0.9447259306907654
+2024-05-06 23:10:12,929 - root - INFO - Epoch 1; loss: 12.966463088989258; CER: 0.8589808940887451; WER: 0.946711003780365; val_loss: 14.40655517578125; val_CER: 0.8484864830970764; val_WER: 0.9608475565910339
+2024-05-06 23:13:37,278 - root - INFO - Epoch 2; loss: 12.135039329528809; CER: 0.7666237354278564; WER: 0.907499372959137; val_loss: 11.833810806274414; val_CER: 0.7094100117683411; val_WER: 0.8507600426673889
+2024-05-06 23:16:33,334 - root - INFO - Epoch 3; loss: 11.366780281066895; CER: 0.7106010913848877; WER: 0.8610186576843262; val_loss: 10.450691223144531; val_CER: 0.6704608201980591; val_WER: 0.8369414806365967
